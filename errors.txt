@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/classroom_screen.rpy", line 106: the action keyword argument was not given a value.
+    action call("main_menu_call_from_progress")         
+           ^
+
+Ren'Py Version: Ren'Py 8.1.3.23091805
+Mon Jan  8 09:46:45 2024
